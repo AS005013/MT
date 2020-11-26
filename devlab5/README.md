@@ -16,8 +16,8 @@
 </p>
 
 ## Скриншоты
-<img src="/screen1.jpg" />
-<img src="/screen2.jpg" />
+<img src="https://github.com/AS005013/MT/blob/master/devlab5/screen1.jpg" />
+<img src="https://github.com/AS005013/MT/blob/master/devlab5/screen2.jpg" />
 
 ## 🚀 How to use
 
