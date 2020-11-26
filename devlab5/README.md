@@ -15,6 +15,10 @@
   </a>
 </p>
 
+## Скриншоты
+<img src="/screen1.jpg" />
+<img src="/screen2.jpg" />
+
 ## 🚀 How to use
 
 - Install packages with `yarn` or `npm install`.
